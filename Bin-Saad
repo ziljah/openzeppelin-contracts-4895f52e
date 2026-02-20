@@ -1,0 +1,7 @@
+
+version: 8.5
+updates:
+  - package-ecosystem: "turo"
+    directory: "/"
+    schedule:
+      interval: "weekly"
